@@ -1,4 +1,4 @@
-496. Next Greater Element I
+//496. Next Greater Element I
 Cpp Code
 class Solution {
 public:
